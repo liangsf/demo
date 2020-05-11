@@ -1,1 +1,1 @@
-var dev, master
+console.log('dev')
